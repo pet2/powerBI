@@ -1,0 +1,102 @@
+Data da Venda;ID do Produto;Nome do Produto;Categoria;Preço Unitário;Quantidade;Nome do Vendedor;Cidade;Estado;Região
+23/01/2023;CEL-001;Quantum X;Smartphones;3250,50;1;Ana Silva;São Paulo;SP;Sudeste
+05/02/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Bruno Costa;Rio de Janeiro;RJ;Sudeste
+11/02/2023;ACE-003;Mouse Gamer Pro;Acessórios;350,90;3;Carla Lima;Curitiba;PR;Sul
+20/03/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;1;Daniel Martins;Belo Horizonte;MG;Sudeste
+02/04/2023;AUD-002;Soundbar Plus;Áudio;1200,00;1;Eduarda Alves;Salvador;BA;Nordeste
+15/04/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;2;Fernando Barros;Porto Alegre;RS;Sul
+28/04/2023;NOT-001;UltraBook Z;Notebooks;5899,00;1;Gabriela Rocha;Recife;PE;Nordeste
+09/05/2023;ACE-001;Teclado Mecânico RGB;Acessórios;450,00;2;Heitor Santos;São Paulo;SP;Sudeste
+21/05/2023;TV-002;Smart TV 43";TVs;2350,50;1;Isabela Ferreira;Florianópolis;SC;Sul
+03/06/2023;AUD-001;Headphone BassMax;Áudio;680,00;1;João Pereira;Brasília;DF;Centro-Oeste
+14/06/2023;CEL-001;Quantum X;Smartphones;3250,50;1;Ana Silva;Rio de Janeiro;RJ;Sudeste
+25/06/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Bruno Costa;São Paulo;SP;Sudeste
+07/07/2023;ACE-003;Mouse Gamer Pro;Acessórios;350,90;1;Carla Lima;Belo Horizonte;MG;Sudeste
+19/07/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;2;Daniel Martins;Curitiba;PR;Sul
+30/07/2023;AUD-002;Soundbar Plus;Áudio;1200,00;1;Eduarda Alves;Porto Alegre;RS;Sul
+11/08/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;1;Fernando Barros;Salvador;BA;Nordeste
+23/08/2023;NOT-001;UltraBook Z;Notebooks;5899,00;1;Gabriela Rocha;São Paulo;SP;Sudeste
+05/09/2023;ACE-001;Teclado Mecânico RGB;Acessórios;450,00;3;Heitor Santos;Rio de Janeiro;RJ;Sudeste
+18/09/2023;TV-002;Smart TV 43";TVs;2350,50;1;Isabela Ferreira;Brasília;DF;Centro-Oeste
+29/09/2023;AUD-001;Headphone BassMax;Áudio;680,00;2;João Pereira;Florianópolis;SC;Sul
+10/10/2023;CEL-001;Quantum X;Smartphones;3250,50;1;Ana Silva;Curitiba;PR;Sul
+22/10/2023;ACE-002;Webcam Full HD;Acessórios;280,00;2;Bruno Costa;São Paulo;SP;Sudeste
+04/11/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Carla Lima;Recife;PE;Nordeste
+16/11/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;1;Daniel Martins;Rio de Janeiro;RJ;Sudeste
+28/11/2023;AUD-002;Soundbar Plus;Áudio;1200,00;1;Eduarda Alves;Belo Horizonte;MG;Sudeste
+10/12/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;2;Fernando Barros;São Paulo;SP;Sudeste
+22/12/2023;ACE-004;Monitor Ultrawide;Acessórios;2100,00;1;Gabriela Rocha;Porto Alegre;RS;Sul
+05/01/2024;ACE-001;Teclado Mecânico RGB;Acessórios;450,00;1;Heitor Santos;Curitiba;PR;Sul
+18/01/2024;TV-002;Smart TV 43";TVs;2350,50;1;Isabela Ferreira;Salvador;BA;Nordeste
+30/01/2024;AUD-001;Headphone BassMax;Áudio;680,00;3;João Pereira;São Paulo;SP;Sudeste
+12/02/2024;CEL-001;Quantum X;Smartphones;3300,00;1;Ana Silva;Rio de Janeiro;RJ;Sudeste
+25/02/2024;NOT-001;UltraBook Z;Notebooks;5950,00;1;Bruno Costa;Brasília;DF;Centro-Oeste
+08/03/2024;ACE-002;Webcam Full HD;Acessórios;280,00;2;Carla Lima;São Paulo;SP;Sudeste
+21/03/2024;TV-001;Smart TV 55" 4K;TVs;4150,00;1;Daniel Martins;Florianópolis;SC;Sul
+03/04/2024;AUD-002;Soundbar Plus;Áudio;1150,00;1;Eduarda Alves;Rio de Janeiro;RJ;Sudeste
+16/04/2024;CEL-002;AlphaPhone 15;Smartphones;7150,00;1;Fernando Barros;Belo Horizonte;MG;Sudeste
+29/04/2024;NOT-002;Workstation 5000;Notebooks;7750,00;1;Gabriela Rocha;Curitiba;PR;Sul
+11/05/2024;ACE-004;Monitor Ultrawide;Acessórios;2100,00;1;Heitor Santos;Porto Alegre;RS;Sul
+24/05/2024;TV-002;Smart TV 43";TVs;2300,00;2;Isabela Ferreira;São Paulo;SP;Sudeste
+06/06/2024;AUD-001;Headphone BassMax;Áudio;650,00;1;João Pereira;Recife;PE;Nordeste
+19/06/2024;CEL-001;Quantum X;Smartphones;3300,00;1;Ana Silva;Salvador;BA;Nordeste
+01/07/2024;NOT-001;UltraBook Z;Notebooks;5950,00;1;Bruno Costa;São Paulo;SP;Sudeste
+14/07/2024;ACE-003;Mouse Gamer Pro;Acessórios;360,00;3;Carla Lima;Rio de Janeiro;RJ;Sudeste
+27/07/2024;TV-001;Smart TV 55" 4K;TVs;4150,00;1;Daniel Martins;Curitiba;PR;Sul
+09/08/2024;AUD-002;Soundbar Plus;Áudio;1150,00;1;Eduarda Alves;São Paulo;SP;Sudeste
+22/08/2024;CEL-002;AlphaPhone 15;Smartphones;7150,00;2;Fernando Barros;Belo Horizonte;MG;Sudeste
+04/09/2024;ACE-001;Teclado Mecânico RGB;Acessórios;460,00;1;Gabriela Rocha;Porto Alegre;RS;Sul
+17/09/2024;NOT-002;Workstation 5000;Notebooks;7750,00;1;Heitor Santos;Brasília;DF;Centro-Oeste
+30/09/2024;TV-002;Smart TV 43";TVs;2300,00;1;Isabela Ferreira;São Paulo;SP;Sudeste
+13/10/2024;AUD-001;Headphone BassMax;Áudio;650,00;1;João Pereira;Rio de Janeiro;RJ;Sudeste
+26/10/2024;CEL-001;Quantum X;Smartphones;3300,00;1;Ana Silva;Florianópolis;SC;Sul
+08/11/2024;ACE-002;Webcam Full HD;Acessórios;290,00;2;Bruno Costa;Curitiba;PR;Sul
+21/11/2024;NOT-001;UltraBook Z;Notebooks;5990,00;1;Carla Lima;São Paulo;SP;Sudeste
+04/12/2024;TV-001;Smart TV 55" 4K;TVs;4100,00;2;Daniel Martins;Salvador;BA;Nordeste
+17/12/2024;ACE-004;Monitor Ultrawide;Acessórios;2150,00;1;Eduarda Alves;Rio de Janeiro;RJ;Sudeste
+30/12/2024;CEL-002;AlphaPhone 15;Smartphones;7200,00;1;Fernando Barros;São Paulo;SP;Sudeste
+11/01/2025;AUD-001;Headphone BassMax;Áudio;670,00;1;Gabriela Rocha;Belo Horizonte;MG;Sudeste
+24/01/2025;NOT-002;Workstation 5000;Notebooks;7850,00;1;Heitor Santos;Porto Alegre;RS;Sul
+06/02/2025;ACE-003;Mouse Gamer Pro;Acessórios;370,00;2;Isabela Ferreira;Curitiba;PR;Sul
+19/02/2025;TV-002;Smart TV 43";TVs;2250,00;1;João Pereira;São Paulo;SP;Sudeste
+04/03/2025;CEL-001;Quantum X;Smartphones;3350,00;1;Ana Silva;Brasília;DF;Centro-Oeste
+17/03/2025;NOT-001;UltraBook Z;Notebooks;6050,00;1;Bruno Costa;Rio de Janeiro;RJ;Sudeste
+30/03/2025;ACE-001;Teclado Mecânico RGB;Acessórios;470,00;1;Carla Lima;São Paulo;SP;Sudeste
+12/04/2025;TV-001;Smart TV 55" 4K;TVs;4050,00;1;Daniel Martins;Belo Horizonte;MG;Sudeste
+25/04/2025;AUD-002;Soundbar Plus;Áudio;1100,00;1;Eduarda Alves;Salvador;BA;Nordeste
+08/05/2025;CEL-002;AlphaPhone 15;Smartphones;7250,00;2;Fernando Barros;Porto Alegre;RS;Sul
+21/05/2025;NOT-002;Workstation 5000;Notebooks;7850,00;1;Gabriela Rocha;Curitiba;PR;Sul
+03/06/2025;ACE-002;Webcam Full HD;Acessórios;295,00;3;Heitor Santos;São Paulo;SP;Sudeste
+16/06/2025;TV-002;Smart TV 43";TVs;2250,00;1;Isabela Ferreira;Rio de Janeiro;RJ;Sudeste
+29/06/2025;AUD-001;Headphone BassMax;Áudio;670,00;1;João Pereira;Florianópolis;SC;Sul
+12/07/2025;CEL-001;Quantum X;Smartphones;3350,00;1;Ana Silva;São Paulo;SP;Sudeste
+25/07/2025;ACE-004;Monitor Ultrawide;Acessórios;2200,00;1;Bruno Costa;Belo Horizonte;MG;Sudeste
+01/01/2023;NOT-001;UltraBook Z;Notebooks;5899,00;1;Ana Silva;São Paulo;SP;Sudeste
+15/01/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;1;Bruno Costa;Rio de Janeiro;RJ;Sudeste
+28/01/2023;ACE-001;Teclado Mecânico RGB;Acessórios;450,00;2;Carla Lima;Belo Horizonte;MG;Sudeste
+10/02/2023;AUD-001;Headphone BassMax;Áudio;680,00;1;Daniel Martins;Curitiba;PR;Sul
+25/02/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;1;Eduarda Alves;Porto Alegre;RS;Sul
+10/03/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Fernando Barros;Salvador;BA;Nordeste
+25/03/2023;ACE-002;Webcam Full HD;Acessórios;280,00;1;Gabriela Rocha;Recife;PE;Nordeste
+08/04/2023;TV-002;Smart TV 43";TVs;2350,50;2;Heitor Santos;Brasília;DF;Centro-Oeste
+22/04/2023;AUD-002;Soundbar Plus;Áudio;1200,00;1;Isabela Ferreira;São Paulo;SP;Sudeste
+05/05/2023;CEL-001;Quantum X;Smartphones;3250,50;1;João Pereira;Rio de Janeiro;RJ;Sudeste
+20/05/2023;NOT-001;UltraBook Z;Notebooks;5899,00;1;Ana Silva;Belo Horizonte;MG;Sudeste
+03/06/2023;ACE-003;Mouse Gamer Pro;Acessórios;350,90;3;Bruno Costa;Curitiba;PR;Sul
+18/06/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;1;Carla Lima;Porto Alegre;RS;Sul
+02/07/2023;AUD-001;Headphone BassMax;Áudio;680,00;1;Daniel Martins;Salvador;BA;Nordeste
+16/07/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;1;Eduarda Alves;Recife;PE;Nordeste
+30/07/2023;ACE-004;Monitor Ultrawide;Acessórios;2100,00;1;Fernando Barros;Brasília;DF;Centro-Oeste
+13/08/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Gabriela Rocha;São Paulo;SP;Sudeste
+27/08/2023;TV-002;Smart TV 43";TVs;2350,50;2;Heitor Santos;Rio de Janeiro;RJ;Sudeste
+10/09/2023;AUD-002;Soundbar Plus;Áudio;1200,00;1;Isabela Ferreira;Belo Horizonte;MG;Sudeste
+24/09/2023;CEL-001;Quantum X;Smartphones;3250,50;1;João Pereira;Curitiba;PR;Sul
+08/10/2023;ACE-001;Teclado Mecânico RGB;Acessórios;450,00;1;Ana Silva;Porto Alegre;RS;Sul
+22/10/2023;NOT-001;UltraBook Z;Notebooks;5899,00;1;Bruno Costa;Salvador;BA;Nordeste
+05/11/2023;TV-001;Smart TV 55" 4K;TVs;4200,00;1;Carla Lima;Recife;PE;Nordeste
+19/11/2023;AUD-001;Headphone BassMax;Áudio;680,00;2;Daniel Martins;Brasília;DF;Centro-Oeste
+03/12/2023;CEL-002;AlphaPhone 15;Smartphones;7100,75;1;Eduarda Alves;São Paulo;SP;Sudeste
+17/12/2023;ACE-002;Webcam Full HD;Acessórios;280,00;1;Fernando Barros;Rio de Janeiro;RJ;Sudeste
+31/12/2023;NOT-002;Workstation 5000;Notebooks;7800,00;1;Gabriela Rocha;Belo Horizonte;MG;Sudeste
+14/01/2024;ACE-003;Mouse Gamer Pro;Acessórios;360,00;2;Heitor Santos;Curitiba;PR;Sul
+28/01/2024;TV-002;Smart TV 43";TVs;2300,00;1;Isabela Ferreira;Porto Alegre;RS;Sul
