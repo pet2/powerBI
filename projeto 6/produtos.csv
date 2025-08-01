@@ -1,0 +1,11 @@
+ProdutoID,Nome,Categoria,Custo
+101,Smartphone X,Eletrônicos,400
+102,Notebook Pro,Eletrônicos,350
+103,Smart TV 4K,Eletrônicos,280
+104,Cadeira Gamer,Móveis,150
+105,Mesa de Escritório,Móveis,120
+106,Sofá 3 Lugares,Móveis,300
+107,Tênis de Corrida,Vestuário,80
+108,Camiseta Básica,Vestuário,30
+109,Calça Jeans,Vestuário,90
+110,Fone de Ouvido BT,Eletrônicos,100

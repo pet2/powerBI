@@ -1,0 +1,52 @@
+DataVenda,IDProduto,Produto,Categoria,PrecoUnitario,CustoUnitario,Quantidade,Regiao,Pais
+15/01/2023,101,Laptop Pro,Notebooks,4500,3200,12,Sudeste,Brasil
+22/01/2023,201,Mouse Gamer,Acessórios,150,90,60,Sudeste,Brasil
+28/01/2023,301,Smartphone X,Smartphones,2800,2100,25,Nordeste,Brasil
+05/02/2023,102,Laptop Gamer,Notebooks,6800,5500,8,Sul,Brasil
+12/02/2023,401,Teclado Mecânico,Acessórios,350,220,40,Sudeste,Brasil
+19/02/2023,302,Smartphone Plus,Smartphones,3500,2800,18,Centro-Oeste,Brasil
+26/02/2023,501,Monitor 24 polegadas,Monitores,1200,850,30,Nordeste,Brasil
+08/03/2023,202,Headset Pro,Acessórios,450,310,35,Sul,Brasil
+17/03/2023,101,Laptop Pro,Notebooks,4500,3200,10,Norte,Brasil
+25/03/2023,301,Smartphone X,Smartphones,2800,2100,28,Sudeste,Brasil
+04/04/2023,502,Monitor Ultrawide,Monitores,2100,1600,15,Sudeste,Brasil
+13/04/2023,103,Ultrabook Fino,Notebooks,5200,4100,11,Sul,Brasil
+21/04/2023,201,Mouse Gamer,Acessórios,150,90,80,Nordeste,Brasil
+30/04/2023,401,Teclado Mecânico,Acessórios,350,220,50,Centro-Oeste,Brasil
+10/05/2023,302,Smartphone Plus,Smartphones,3500,2800,22,Sudeste,Brasil
+20/06/2023,102,Laptop Gamer,Notebooks,6800,5500,9,Norte,Brasil
+25/07/2023,501,Monitor 24 polegadas,Monitores,1200,850,45,Sul,Brasil
+15/08/2023,203,Webcam HD,Acessórios,250,180,70,Sudeste,Brasil
+05/09/2023,303,Smartphone Basic,Smartphones,1500,1100,50,Nordeste,Brasil
+22/10/2023,101,Laptop Pro,Notebooks,4500,3200,15,Centro-Oeste,Brasil
+18/11/2023,102,Laptop Gamer,Notebooks,6800,5500,15,Sudeste,Brasil
+24/11/2023,301,Smartphone X,Smartphones,2650,2100,80,Brasil,Brasil
+24/11/2023,201,Mouse Gamer,Acessórios,130,90,250,Brasil,Brasil
+10/12/2023,401,Teclado Mecânico,Acessórios,350,220,60,Sul,Brasil
+15/12/2023,502,Monitor Ultrawide,Monitores,2100,1600,25,Sudeste,Brasil
+08/01/2024,101,Laptop Pro,Notebooks,4600,3300,14,Sudeste,Brasil
+19/01/2024,201,Mouse Gamer,Acessórios,160,95,75,Nordeste,Brasil
+25/01/2024,302,Smartphone Plus,Smartphones,3600,2900,20,Sudeste,Brasil
+07/02/2024,103,Ultrabook Fino,Notebooks,5300,4200,10,Sul,Brasil
+18/02/2024,501,Monitor 24 polegadas,Monitores,1250,880,40,Centro-Oeste,Brasil
+25/02/2024,202,Headset Pro,Acessórios,470,320,45,Norte,Brasil
+05/03/2024,301,Smartphone X,Smartphones,2900,2200,35,Sul,Brasil
+16/03/2024,102,Laptop Gamer,Notebooks,6950,5600,11,Sudeste,Brasil
+28/03/2024,401,Teclado Mecânico,Acessórios,370,230,55,Nordeste,Brasil
+06/04/2024,502,Monitor Ultrawide,Monitores,2200,1650,18,Centro-Oeste,Brasil
+15/04/2024,203,Webcam HD,Acessórios,260,185,90,Sudeste,Brasil
+28/04/2024,303,Smartphone Basic,Smartphones,1600,1150,60,Norte,Brasil
+11/05/2024,101,Laptop Pro,Notebooks,4600,3300,18,Sul,Brasil
+25/05/2024,302,Smartphone Plus,Smartphones,3600,2900,25,Nordeste,Brasil
+12/06/2024,102,Laptop Gamer,Notebooks,6950,5600,8,Sudeste,Brasil
+30/06/2024,201,Mouse Gamer,Acessórios,160,95,120,Sudeste,Brasil
+10/07/2024,501,Monitor 24 polegadas,Monitores,1250,880,50,Norte,Brasil
+22/08/2024,103,Ultrabook Fino,Notebooks,5300,4200,15,Sudeste,Brasil
+15/09/2024,301,Smartphone X,Smartphones,2900,2200,40,Centro-Oeste,Brasil
+20/10/2024,202,Headset Pro,Acessórios,470,320,60,Sul,Brasil
+15/11/2024,101,Laptop Pro,Notebooks,4600,3300,25,Sudeste,Brasil
+29/11/2024,302,Smartphone Plus,Smartphones,3400,2900,100,Brasil,Brasil
+29/11/2024,502,Monitor Ultrawide,Monitores,1950,1650,80,Brasil,Brasil
+05/12/2024,102,Laptop Gamer,Notebooks,6950,5600,20,Sudeste,Brasil
+12/12/2024,401,Teclado Mecânico,Acessórios,370,230,150,Nordeste,Brasil
+20/12/2024,203,Webcam HD,Acessórios,260,185,200,Sul,Brasil

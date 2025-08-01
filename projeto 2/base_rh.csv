@@ -1,0 +1,101 @@
+ID do Funcionário;Nome Completo;Data de Admissão;Data de Desligamento;Motivo do Desligamento;Departamento;Cargo;Salário Mensal;Gênero;Data de Nascimento;Fonte da Contratação;Avaliação de Desempenho
+RH-001;Lucas Martins;15/02/2021;;;Tecnologia;Desenvolvedor Pleno;7500,00;Masculino;12/05/1995;LinkedIn;5
+RH-002;Juliana Azevedo;20/08/2019;10/01/2024;Melhor Oferta Salarial;Vendas;Executiva de Contas;6800,00;Feminino;22/07/1992;Indicação;4
+RH-003;Fernando Oliveira;10/05/2022;;;Marketing;Analista de Marketing Digital;5500,00;Masculino;30/11/1998;Site da Empresa;4
+RH-004;Camila Costa;01/03/2018;15/06/2023;Falta de Crescimento;Tecnologia;Analista de Infraestrutura;8200,00;Feminino;14/02/1990;Indicação;3
+RH-005;Rafael Souza;05/11/2023;;;Vendas;Vendedor Interno;4500,00;Masculino;18/09/2000;Feira de Carreiras;5
+RH-006;Beatriz Pereira;12/07/2020;;;Recursos Humanos;Analista de RH;6000,00;Feminino;25/03/1996;LinkedIn;5
+RH-007;Gustavo Lima;02/09/2017;28/02/2024;Problemas com Gestor;Vendas;Gerente de Vendas;12500,00;Masculino;05/08/1988;Indicação;2
+RH-008;Larissa Almeida;20/01/2024;;;Tecnologia;Desenvolvedora Júnior;5000,00;Feminino;10/12/2001;Site da Empresa;4
+RH-009;Thiago Ribeiro;08/06/2019;;;Financeiro;Analista Financeiro;7200,00;Masculino;20/06/1993;LinkedIn;4
+RH-010;Amanda Ferreira;15/10/2021;05/04/2024;Mudança de Cidade;Marketing;Designer Gráfico;5800,00;Feminino;12/01/1997;Catho;3
+RH-011;Rodrigo Gomes;01/04/2023;;;Tecnologia;Cientista de Dados;9500,00;Masculino;08/04/1994;Indicação;5
+RH-012;Sofia Gonçalves;18/03/2020;;;Vendas;Executiva de Contas;7100,00;Feminino;19/10/1995;LinkedIn;5
+RH-013;Bruno Cardoso;11/12/2018;10/09/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedor Sênior;11000,00;Masculino;28/05/1991;Indicação;4
+RH-014;Clara Nunes;25/05/2022;;;Marketing;Analista de Mídias Sociais;5200,00;Feminino;03/02/1999;Site da Empresa;4
+RH-015;Diego Rocha;09/01/2024;;;Vendas;Vendedor Interno;4500,00;Masculino;15/07/2000;Feira de Carreiras;4
+RH-016;Evelyn Barros;14/08/2021;;;Recursos Humanos;Coordenadora de RH;8500,00;Feminino;21/04/1993;LinkedIn;5
+RH-017;Felipe Mendes;03/02/2019;20/11/2023;Falta de Crescimento;Vendas;Executivo de Contas;6900,00;Masculino;11/09/1992;Indicação;3
+RH-018;Gabriela Castro;22/07/2023;;;Tecnologia;Desenvolvedora Júnior;5000,00;Feminino;09/03/2001;Site da Empresa;5
+RH-019;Heitor Pinto;07/04/2020;;;Financeiro;Gerente Financeiro;13000,00;Masculino;17/11/1989;Indicação;5
+RH-020;Isadora Cunha;16/09/2022;18/05/2024;Problemas com Gestor;Marketing;Analista de Marketing Digital;5600,00;Feminino;23/06/1998;Catho;2
+RH-021;João Vitor Silva;05/03/2021;;;Tecnologia;Analista de Segurança;8800,00;Masculino;02/07/1994;LinkedIn;4
+RH-022;Karina Dias;24/11/2019;;;Vendas;Executiva de Contas;7000,00;Feminino;13/08/1995;Indicação;5
+RH-023;Leonardo Duarte;10/08/2018;01/03/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedor Pleno;7800,00;Masculino;26/01/1992;LinkedIn;4
+RH-024;Manuela Freire;19/06/2023;;;Marketing;Estagiária de Marketing;1500,00;Feminino;14/05/2002;Feira de Carreiras;4
+RH-025;Nicolas Ramos;02/02/2024;;;Vendas;Vendedor Interno;4600,00;Masculino;04/10/2000;Site da Empresa;4
+RH-026;Olivia Peixoto;13/05/2021;;;Recursos Humanos;Assistente de RH;4000,00;Feminino;29/12/1997;Catho;5
+RH-027;Paulo Vieira;08/10/2017;15/08/2023;Falta de Crescimento;Vendas;Executivo de Contas;7200,00;Masculino;07/06/1990;Indicação;3
+RH-028;Otávio Bernardes;28/04/2022;;;Tecnologia;Desenvolvedor Júnior;5100,00;Masculino;19/02/2000;Site da Empresa;4
+RH-029;Renata Xavier;17/09/2020;;;Financeiro;Analista Financeiro;7300,00;Feminino;24/07/1994;LinkedIn;4
+RH-030;Samuel Zanetti;06/01/2020;11/07/2024;Problemas com Gestor;Marketing;Coordenador de Marketing;9200,00;Masculino;01/03/1991;Indicação;2
+RH-031;Tatiana Moreira;21/03/2023;;;Tecnologia;Analista de QA;7000,00;Feminino;16/08/1996;LinkedIn;5
+RH-032;Vinicius Valente;11/11/2019;;;Vendas;Executivo de Contas;7300,00;Masculino;18/05/1993;Indicação;5
+RH-033;Valentina Guerra;04/07/2018;25/01/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedora Plena;8000,00;Feminino;22/10/1992;LinkedIn;4
+RH-034;Wagner Teles;23/02/2022;;;Marketing;Analista de Marketing Digital;5700,00;Masculino;30/09/1998;Site da Empresa;3
+RH-035;Alexandre Neto;09/09/2023;;;Vendas;Vendedor Interno;4700,00;Masculino;11/04/2001;Feira de Carreiras;4
+RH-036;Yasmin Neves;15/06/2021;;;Recursos Humanos;Analista de RH;6200,00;Feminino;06/11/1996;LinkedIn;5
+RH-037;Ricardo Pires;03/12/2017;12/10/2023;Aposentadoria;Financeiro;Contador Sênior;10500,00;Masculino;15/01/1960;Indicação;5
+RH-038;Alice Borges;20/05/2024;;;Tecnologia;Estagiária de Dados;1800,00;Feminino;20/08/2003;Feira de Carreiras;5
+RH-039;Bento Carvalho;08/01/2020;;;Vendas;Executivo de Contas;7400,00;Masculino;27/03/1994;LinkedIn;4
+RH-040;Cora Dias;14/04/2019;01/12/2023;Falta de Crescimento;Marketing;Redatora;6000,00;Feminino;19/07/1992;Catho;3
+RH-041;Davi Gusmão;29/08/2022;;;Tecnologia;Desenvolvedor Pleno;7600,00;Masculino;10/05/1996;Indicação;4
+RH-042;Ester Matos;12/03/2021;;;Vendas;Executiva de Contas;7200,00;Feminino;05/02/1995;LinkedIn;5
+RH-043;Fábio Lins;01/10/2018;09/06/2023;Melhor Oferta Salarial;Tecnologia;Arquiteto de Soluções;14000,00;Masculino;12/11/1987;Indicação;5
+RH-044;Helena Pires;18/07/2023;;;Marketing;Analista de Mídias Sociais;5300,00;Feminino;23/04/2000;Site da Empresa;4
+RH-045;Hugo Drummond;05/12/2023;;;Vendas;Vendedor Interno;4800,00;Masculino;14/08/2001;Feira de Carreiras;4
+RH-046;Íris Correia;11/02/2021;;;Recursos Humanos;Gerente de RH;11500,00;Feminino;26/07/1985;Indicação;5
+RH-047;Jonas Macedo;27/06/2019;14/02/2024;Problemas com Gestor;Vendas;Executivo de Contas;7500,00;Masculino;03/12/1993;LinkedIn;2
+RH-048;Kelly Andrade;15/11/2022;;;Tecnologia;Desenvolvedora Júnior;5200,00;Feminino;03/03/1999;Site da Empresa;4
+RH-049;Luan Santana;04/08/2020;;;Financeiro;Analista Financeiro;7400,00;Masculino;13/03/1991;LinkedIn;4
+RH-050;Maitê Proença;22/01/2020;20/07/2024;Mudança de Cidade;Marketing;Designer Gráfico;6000,00;Feminino;28/01/1990;Catho;3
+RH-051;Nelson Matos;10/06/2023;;;Tecnologia;Cientista de Dados;9800,00;Masculino;05/02/1992;Indicação;5
+RH-052;Patrícia Moura;19/09/2019;;;Vendas;Executiva de Contas;7600,00;Feminino;19/10/1986;LinkedIn;5
+RH-053;Caio Queiroz;02/05/2018;10/01/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedor Sênior;11500,00;Masculino;18/04/1990;Indicação;4
+RH-054;Rita Campos;16/12/2022;;;Marketing;Analista de Mídias Sociais;5400,00;Feminino;31/12/1947;Site da Empresa;4
+RH-055;Sandro Santos;01/04/2024;;;Vendas;Vendedor Interno;4900,00;Masculino;12/12/1930;Feira de Carreiras;4
+RH-056;Tales Meira;14/08/2021;;;Recursos Humanos;Coordenador de RH;8800,00;Masculino;05/10/1935;LinkedIn;5
+RH-057;Vera Esteves;03/02/2019;20/11/2023;Falta de Crescimento;Vendas;Executiva de Contas;7300,00;Feminino;27/11/1951;Indicação;3
+RH-058;William Tavares;22/07/2023;;;Tecnologia;Desenvolvedor Júnior;5300,00;Masculino;16/11/1963;Site da Empresa;5
+RH-059;Cecília Meneghel;07/04/2020;;;Financeiro;Gerente Financeiro;13500,00;Feminino;27/03/1963;Indicação;5
+RH-060;José Pagodinho;16/09/2022;18/05/2024;Problemas com Gestor;Marketing;Analista de Marketing Digital;5800,00;Masculino;04/02/1959;Catho;2
+RH-061;Ana Maria Braga;01/04/2021;;;Tecnologia;Analista de Segurança;9000,00;Feminino;01/04/1949;LinkedIn;4
+RH-062;Fábio Silva;24/11/2019;;;Vendas;Executivo de Contas;7800,00;Masculino;02/05/1950;Indicação;5
+RH-063;Heloísa Camargo;10/08/2018;01/03/2023;Aposentadoria;Tecnologia;Desenvolvedora Plena;8200,00;Feminino;08/03/1929;LinkedIn;4
+RH-064;Jorge Soares;19/06/2023;;;Marketing;Estagiário de Marketing;1600,00;Masculino;16/01/1938;Feira de Carreiras;4
+RH-065;Marília Gabriela;31/05/2024;;;Vendas;Vendedora Interna;4700,00;Feminino;31/05/1948;Site da Empresa;4
+RH-066;Raul Gilmar;13/05/2021;;;Recursos Humanos;Assistente de RH;4100,00;Masculino;27/01/1938;Catho;5
+RH-067;Sérgio Groisman;08/10/2017;15/08/2023;Falta de Crescimento;Vendas;Executivo de Contas;7600,00;Masculino;29/06/1950;Indicação;3
+RH-068;Angélica Ramos;28/04/2022;;;Tecnologia;Desenvolvedora Júnior;5400,00;Feminino;30/11/1973;Site da Empresa;4
+RH-069;Luciano Huck;17/09/2020;;;Financeiro;Analista Financeiro;7600,00;Masculino;03/09/1971;LinkedIn;4
+RH-070;Eliana Michaelichen;06/01/2020;11/07/2024;Problemas com Gestor;Marketing;Coordenadora de Marketing;9500,00;Feminino;22/11/1973;Indicação;2
+RH-071;Rodrigo Faro;21/03/2023;;;Tecnologia;Analista de QA;7200,00;Masculino;20/10/1973;LinkedIn;5
+RH-072;Augusto Liberato;11/11/2019;;;Vendas;Executivo de Contas;7900,00;Masculino;10/04/1959;Indicação;5
+RH-073;Celso Portiolli;04/07/2018;25/01/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedor Pleno;8400,00;Masculino;01/06/1967;LinkedIn;4
+RH-074;Regina Casé;23/02/2022;;;Marketing;Analista de Marketing Digital;5900,00;Feminino;25/02/1954;Site da Empresa;3
+RH-075;Marcos Mion;09/09/2023;;;Vendas;Vendedor Interno;5000,00;Masculino;20/06/1979;Feira de Carreiras;4
+RH-076;Sabrina Sato;15/06/2021;;;Recursos Humanos;Analista de RH;6400,00;Feminino;04/02/1981;LinkedIn;5
+RH-077;Fátima Bernardes;03/12/2017;12/10/2023;Aposentadoria;Financeiro;Contadora Sênior;11000,00;Feminino;17/09/1962;Indicação;5
+RH-078;Pedro Bial;20/05/2024;;;Tecnologia;Estagiário de Dados;1900,00;Masculino;29/03/1958;Feira de Carreiras;5
+RH-079;Tiago Leifert;08/01/2020;;;Vendas;Executivo de Contas;8000,00;Masculino;22/05/1980;LinkedIn;4
+RH-080;Fernanda Lima;14/04/2019;01/12/2023;Falta de Crescimento;Marketing;Redatora;6200,00;Feminino;25/06/1977;Catho;3
+RH-081;Carlos Bueno;29/08/2022;;;Tecnologia;Desenvolvedor Pleno;7800,00;Masculino;21/07/1950;Indicação;4
+RH-082;Ana Paula Padrão;12/03/2021;;;Vendas;Executiva de Contas;7800,00;Feminino;25/11/1965;LinkedIn;5
+RH-083;César Tralli;01/10/2018;09/06/2023;Melhor Oferta Salarial;Tecnologia;Arquiteto de Soluções;14500,00;Masculino;23/12/1970;Indicação;5
+RH-084;Maria Júlia Coutinho;18/07/2023;;;Marketing;Analista de Mídias Sociais;5500,00;Feminino;10/08/1978;Site da Empresa;4
+RH-085;Evaristo Costa;05/12/2023;;;Vendas;Vendedor Interno;5100,00;Masculino;30/09/1976;Feira de Carreiras;4
+RH-086;Sandra Annenberg;11/02/2021;;;Recursos Humanos;Gerente de RH;12000,00;Feminino;05/06/1968;Indicação;5
+RH-087;Francisco Pinheiro;27/06/2019;14/02/2024;Problemas com Gestor;Vendas;Executivo de Contas;8100,00;Masculino;17/06/1953;LinkedIn;2
+RH-088;Poliana Abritta;15/11/2022;;;Tecnologia;Desenvolvedora Júnior;5500,00;Feminino;18/09/1975;Site da Empresa;4
+RH-089;Renato de Souza;04/08/2020;;;Financeiro;Analista Financeiro;7800,00;Masculino;13/01/1935;LinkedIn;4
+RH-090;Daniel Santana;22/01/2020;20/07/2024;Mudança de Cidade;Marketing;Designer Gráfico;6200,00;Masculino;29/04/1936;Catho;3
+RH-091;Mário Gomes;10/06/2023;;;Tecnologia;Cientista de Dados;10000,00;Masculino;07/04/1941;Indicação;5
+RH-092;Eduardo Pires;19/09/2019;;;Vendas;Executivo de Contas;8200,00;Masculino;18/01/1934;LinkedIn;5
+RH-093;Antônio Ramos;02/05/2018;10/01/2023;Melhor Oferta Salarial;Tecnologia;Desenvolvedor Sênior;12000,00;Masculino;25/08/1948;Indicação;4
+RH-094;Helena Menezes;16/12/2022;;;Marketing;Analista de Mídias Sociais;5600,00;Feminino;19/10/1934;Site da Empresa;4
+RH-095;Francisco Cuoco;01/04/2024;;;Vendas;Vendedor Interno;5200,00;Masculino;29/11/1933;Feira de Carreiras;4
+RH-096;Luiz Duarte;14/08/2021;;;Recursos Humanos;Coordenador de RH;9000,00;Masculino;29/03/1930;LinkedIn;5
+RH-097;Laura Cardoso;03/02/2019;20/11/2023;Falta de Crescimento;Vendas;Executiva de Contas;7900,00;Feminino;13/09/1927;Indicação;3
+RH-098;Arthur Fontoura;22/07/2023;;;Tecnologia;Desenvolvedor Júnior;5600,00;Masculino;27/01/1933;Site da Empresa;5
+RH-099;Natalia Timberg;07/04/2020;;;Financeiro;Gerente Financeiro;14000,00;Feminino;05/08/1929;Indicação;5
+RH-100;Eva Wilma;16/09/2022;18/05/2024;Aposentadoria;Marketing;Diretora de Marketing;18000,00;Feminino;14/12/1933;Indicação;5
